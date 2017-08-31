@@ -4,6 +4,8 @@
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
     "license": "BSD-4-Clause",
+    "minimum-stability": "dev", 
+    "prefer-stable": true,
     "authors": [
         {
             "name": "rbt",
