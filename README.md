@@ -1,4 +1,4 @@
-YII2 SMS COMPONENT
+YII2 test COMPONENT
 ==================
 This extension useful for sending sms through component, rather your write every where total sms service code you just keep it in component then call it.
 
