@@ -17,5 +17,11 @@
         "psr-4": {
             "sms\\smscom\\": ""
         }
+    },
+    "repositories":[
+    {
+        "type": "git",
+        "url": "https://github.com/saikumarkunchaa/test.git"
     }
+]
 }
