@@ -5,9 +5,9 @@ namespace sms\smscom;
 /**
  * This is just an example.
  */
-class AutoloadExample extends \yii\base\Widget
+class AutoloadExample 
 {
-    public function run()
+    public function sms()
     {
         return "Hello!";
     }
