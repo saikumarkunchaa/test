@@ -9,8 +9,9 @@ class AutoloadExample
 {
     public function sms()
     {
+     
 	// Account details
-	$apiKey = urlencode('sErmxDhmiqw-1r6vTepsEoDLKjsvJLUL6Bc2uQCauF	');
+	$apiKey = urlencode('Your apiKey');
 	
 	// Message details
 	$numbers = array(917893376961, 918019980179);
@@ -31,7 +32,7 @@ class AutoloadExample
 	curl_close($ch);
 	
 	// Process your response here
-	return $response;
-
+	echo $response;
+?>
     }
 }
