@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "keywords": ["yii2","extension"],
     "license": "BSD-4-Clause",
+    "minimum-stability":"stable",
    "prefer-stable": true, 
     "authors": [
         {
