@@ -2,6 +2,7 @@
     "name": "rbt/yii2-sms",
     "description": "This extension useful for sending sms through component, rather your write every where total sms service code you just keep it in component then call it.",
     "type": "yii2-extension",
+    "version": "1.0.0",
     "keywords": ["yii2","extension"],
     "license": "BSD-4-Clause",
    "minimum-stability": "stable",
